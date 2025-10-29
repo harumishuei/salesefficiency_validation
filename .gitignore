@@ -1,0 +1,13 @@
+/.DS_Store
+/.env
+/.gradio
+/.mypy_cache
+/__pycache__
+/extract.py
+/insert.py
+/matches_by_keyword.md
+/matches_highlighted.xlsx
+/milv.py
+/search.py
+/vector.py
+/venv
